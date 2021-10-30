@@ -33,4 +33,19 @@ body{
 
 .image-area{
     background-image: url("Background.png");
+    background-position: center center;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.image-text{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 2.5rem;
+    max-width: 1020;
+    margin: 0px;
+    padding: 0px 16px;
+
 }
