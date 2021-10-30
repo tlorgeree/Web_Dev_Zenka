@@ -30,3 +30,7 @@ body{
 .nav ul li:hover{
     background-color: black;
 }
+
+.image-area{
+    background-image: url("Background.png");
+}
