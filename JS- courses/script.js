@@ -5,7 +5,7 @@ b++;
 console.log("b is: " + b);//Console log allows multiple data types
 
 //Conditional statements
-let direction = "lefst";
+let direction = "left";
 
 if (direction == "left")
 {
